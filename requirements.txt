@@ -22,7 +22,6 @@ muda==0.2.0
 numba==0.38.0
 numpy==1.14.3
 pandas==0.23.0
-pkg-resources==0.0.0
 protobuf==3.5.2.post1
 pycparser==2.18
 pyrubberband==0.2.2
